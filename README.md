@@ -21,7 +21,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=GMNSA)
 
 [![codewars](https://www.codewars.com/users/GMNSA/badges/micro)](https://www.codewars.com/users/GMNSA)
 
