@@ -14,9 +14,15 @@
  ~> ls language 
  Russian English
  
-  Learning \o/
+ Learning \o/
 
-Крошечный (micro):  
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 [![codewars](https://www.codewars.com/users/GMNSA/badges/micro)](https://www.codewars.com/users/GMNSA)
 
 <!--
