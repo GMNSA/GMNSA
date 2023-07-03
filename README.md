@@ -2,6 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_.-._.-._+G.M.N.S.A+_.-._.-._)](https://git.io/typing-svg)
 
+~> cat note.txt
+ 1. If I'm not responding to any of your PRs or issues,
+   feel free to remind me via email.
+ 
+ ~> ls socials
+ E-mail: @paparam.mr@mail.ru
+<!-- Telegram: 
+ Rocket.Chat: -->
+
+ ~> ls language 
+ Russian English
+ 
+  Learning \o/
+
+  <!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GMNSA/GMNSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
