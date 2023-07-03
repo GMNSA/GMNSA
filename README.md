@@ -14,7 +14,8 @@
  ~> ls language 
  Russian English
  
- Learning \o/
+ <<< --------------------------- >>>
+ https://github.com/Ileriayo/markdown-badges
 
 
 
