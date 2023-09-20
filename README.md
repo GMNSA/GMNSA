@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_.-._.-._+G.M.N.S.A+_.-._.-._)](https://git.io/typing-svg)
 
-~> cat note.txt
+<!-- ~> cat note.txt
  1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via email.
+   feel free to remind me via email.-->
  
  ~> ls socials
  E-mail: @paparam.mr@mail.ru
 <!-- Telegram: 
  Rocket.Chat: -->
 
- ~> ls language 
- Russian English
+<!-- ~> ls language 
+ Russian English -->
  
 <<< - >>>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,7 +27,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GMNSA)
 
-[![codewars](https://www.codewars.com/users/GMNSA/badges/micro)](https://www.codewars.com/users/GMNSA)
+<!--[![codewars](https://www.codewars.com/users/GMNSA/badges/micro)](https://www.codewars.com/users/GMNSA)>>
 
 <!--
 **GMNSA/GMNSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
