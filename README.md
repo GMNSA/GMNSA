@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img width="600" height="200" src="https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif">
+   <img width="400" height="200" src="https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif">
 </p> 
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_.-._.-._................_.-._.-._)](https://git.io/typing-svg) ->
