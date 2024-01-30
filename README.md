@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 -->
+![piu](https://media1.tenor.com/m/GBjEvUkbbwoAAAAC/internet-internet-down.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_.-._.-._+G.M.N.S.A+_.-._.-._)](https://git.io/typing-svg)
 
