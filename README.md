@@ -6,10 +6,10 @@
 <!-- ~> cat note.txt
  1. If I'm not responding to any of your PRs or issues,
    feel free to remind me via email.-->
- 
+ <!--
  ~> ls socials
  E-mail: @paparam.mr@mail.ru
-<!-- Telegram: 
+ Telegram: 
  Rocket.Chat: -->
 
 <!-- ~> ls language 
