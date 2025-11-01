@@ -3,10 +3,7 @@
    <img width="400" height="200" src="https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif">
 </p> 
 <p align="center">
-   <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.--. .-. .. .-- . -      --- -       --. -- ... -. .-">
-</p> 
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=_.-._.-._................_.-._.-._)](https://git.io/typing-svg) -->
+<img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=6000&lines=.--.@.-.@---@...@-@---@--..--|-...@..-@-..@-..-">
 <!-- ~> cat note.txt
  1. If I'm not responding to any of your PRs or issues,
    feel free to remind me via email.-->
